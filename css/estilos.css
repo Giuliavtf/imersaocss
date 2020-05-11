@@ -1,0 +1,38 @@
+body{
+    background-image: url('https://image.freepik.com/fotos-gratis/fundo-de-nuvem-com-uma-cor-pastel_66899-923.jpg');
+    background-size: auto 100vh;
+    font-family: Arial;
+    height: 100vh;
+  }
+  
+  .menu {
+    background-color: #D8BFD8;
+  }
+  
+  .menu ul {
+    display: flex;
+    justify-content: space-around;
+  }
+  
+  .menu li {
+    list-style: none;
+  }
+  
+  a {
+    color: #8B008B;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  .site-title,
+  .site-subtitle {
+    color: #800080;
+    text-align: center;
+  }
+  
+  .site-subtitle {
+    font-style: Italic;
+  }
